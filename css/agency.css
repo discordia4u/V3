@@ -56,9 +56,9 @@ h6 {
   background-color: #222222;
 }
 .btn-primary {
-  color: white;
-  background-color: #fed136;
-  border-color: #fed136;
+  color: black;
+  background-color: white;
+  border-color: black;
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-weight: 700;
@@ -69,8 +69,8 @@ h6 {
 .btn-primary.active,
 .open .dropdown-toggle.btn-primary {
   color: white;
-  background-color: #fec503;
-  border-color: #f6bf01;
+  background-color: #00ffffff;
+  border-color: black;
 }
 .btn-primary:active,
 .btn-primary.active,
