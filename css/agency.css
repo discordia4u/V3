@@ -143,7 +143,7 @@ fieldset[disabled] .btn-xl.active {
   border-color: #222222;
 }
 .btn-xl .badge {
-  color: #222222;
+  color: #white;
   background-color: white;
 }
 .navbar-custom {
@@ -164,8 +164,8 @@ fieldset[disabled] .btn-xl.active {
   border-color: rgba(255, 255, 255, 0.02);
 }
 .navbar-custom .navbar-toggle {
-  background-color: ;
-  border-color: ;
+  background-color:#222222 ;
+  border-color:#222222 ;
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   color: white;
