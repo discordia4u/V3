@@ -116,8 +116,8 @@ fieldset[disabled] .btn-primary.active {
 .btn-lg.active,
 .open .dropdown-toggle.btn-lg {
   color: white;
-  background-color: #00ffffff;
-  border-color: #00ffffff;
+  background-color: #00222222;
+  border-color: #00222222;
 }
 .btn-lg:active,
 .btn-lg.active,
@@ -274,8 +274,8 @@ header .intro-text .intro-heading {
   header,body  .intro-text .intro-heading {
     font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
     text-transform: uppercase;
-    font-weight: 500;
-    font-size: 45px;
+    font-weight: 700;
+    font-size: 70px;
     line-height: 45px;
     margin-bottom: 50px;
   }
