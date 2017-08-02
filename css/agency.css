@@ -240,20 +240,6 @@ header {
   color: white;
 }
 
-header1 {
-  background-image: url('http://beta.fdg.one/wp-content/uploads/2017/07/36039608982_a27059a468_o.jpg');
-  background-repeat: no-repeat;
-  background-attachment: scroll;
-  background-position: bottom center;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  background-size: cover;
-  -o-background-size: cover;
-  min-height: 750px;
-
-  text-align: center;
-  color: white;
-}
 header .intro-text {
   padding-top: 100px;
   padding-bottom: 50px;
@@ -285,12 +271,12 @@ header .intro-text .intro-heading {
     line-height: 40px;
     margin-bottom: 25px;
   }
-  header .intro-text .intro-heading {
+  header,body  .intro-text .intro-heading {
     font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
     text-transform: uppercase;
-    font-weight: 700;
-    font-size: 75px;
-    line-height: 75px;
+    font-weight: 500;
+    font-size: 45px;
+    line-height: 45px;
     margin-bottom: 50px;
   }
 }
