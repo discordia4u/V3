@@ -99,7 +99,7 @@ fieldset[disabled] .btn-primary.active {
   color: #222222;
   background-color: white;
 }
-.btn-xl {
+.btn-lg {
   color: white;
   background-color: #222222;
   border-color: #222222;
@@ -110,39 +110,39 @@ fieldset[disabled] .btn-primary.active {
   font-size: 18px;
   padding: 20px 40px;
 }
-.btn-xl:hover,
-.btn-xl:focus,
-.btn-xl:active,
-.btn-xl.active,
-.open .dropdown-toggle.btn-xl {
+.btn-lg:hover,
+.btn-lg:focus,
+.btn-lg:active,
+.btn-lg.active,
+.open .dropdown-toggle.btn-lg {
   color: white;
   background-color: #00ffffff;
   border-color: #00ffffff;
 }
-.btn-xl:active,
-.btn-xl.active,
-.open .dropdown-toggle.btn-xl {
+.btn-lg:active,
+.btn-lg.active,
+.open .dropdown-toggle.btn-lg {
   background-image: none;
 }
 .btn-xl.disabled,
 .btn-xl[disabled],
-fieldset[disabled] .btn-xl,
+fieldset[disabled] .btn-lg,
 .btn-xl.disabled:hover,
 .btn-xl[disabled]:hover,
-fieldset[disabled] .btn-xl:hover,
+fieldset[disabled] .btn-lg:hover,
 .btn-xl.disabled:focus,
 .btn-xl[disabled]:focus,
-fieldset[disabled] .btn-xl:focus,
+fieldset[disabled] .btn-lg:focus,
 .btn-xl.disabled:active,
 .btn-xl[disabled]:active,
-fieldset[disabled] .btn-xl:active,
+fieldset[disabled] .btn-lg:active,
 .btn-xl.disabled.active,
 .btn-xl[disabled].active,
-fieldset[disabled] .btn-xl.active {
+fieldset[disabled] .btn-lg.active {
   background-color: #222222;
   border-color: #222222;
 }
-.btn-xl .badge {
+.btn-lg .badge {
   color: #white;
   background-color: white;
 }
