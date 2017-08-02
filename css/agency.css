@@ -109,6 +109,7 @@ fieldset[disabled] .btn-primary.active {
   border-radius: 3px;
   font-size: 18px;
   padding: 20px 40px;
+  margin: 15px 15px;
 }
 .btn-lg:hover,
 .btn-lg:focus,
@@ -225,7 +226,7 @@ fieldset[disabled] .btn-lg.active {
     font-size: 1.5em;
   }
 }
-header {
+header  {
   background-image: url('http://beta.fdg.one/wp-content/uploads/2017/07/peace_canyon.png');
   background-repeat: no-repeat;
   background-attachment: scroll;
@@ -236,6 +237,20 @@ header {
   -o-background-size: cover;
   min-height: 750px;
 
+  text-align: center;
+  color: white;
+}
+
+header .about-me {
+  background-image: url('http://beta.fdg.one/wp-content/uploads/2017/07/36039608982_a27059a468_o.jpg');
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-position: bottom center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+  min-height: 750px;
   text-align: center;
   color: white;
 }
