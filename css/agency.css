@@ -252,7 +252,7 @@ header .about-me {
   background-size: cover;
   -o-background-size: cover;
   min-height: 750px;
-  text-align: center;
+  text-align: left;
   color: white;
   margin: 0px 0px;
 }
