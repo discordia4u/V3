@@ -239,6 +239,7 @@ header  {
 
   text-align: center;
   color: white;
+  margin: 0px 0px;
 }
 
 header .about-me {
@@ -253,6 +254,7 @@ header .about-me {
   min-height: 750px;
   text-align: center;
   color: white;
+  margin: 0px 0px;
 }
 
 header .intro-text {
@@ -286,7 +288,7 @@ header .intro-text .intro-heading {
     line-height: 40px;
     margin-bottom: 25px;
   }
-  header,body  .intro-text .intro-heading {
+  header  .intro-text .intro-heading {
     font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
     text-transform: uppercase;
     font-weight: 700;
