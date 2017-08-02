@@ -147,12 +147,11 @@ fieldset[disabled] .btn-xl.active {
   background-color: white;
 }
 .navbar-custom {
-  background-color: white;
+  background-color: #222222;
   border-color: transparent;
 }
 .navbar-custom .navbar-brand {
-  color: #222222;
-  border-color: white;
+  color: white;
   font-family: "Kaushan Script", "Helvetica Neue", Helvetica, Arial, cursive;
 }
 .navbar-custom .navbar-brand:hover,
