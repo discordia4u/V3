@@ -265,6 +265,8 @@ header .intro-text  {
 header  .about-text {
   padding-top: 50px;
   padding-bottom: 50px;
+   font-size: 22px;
+  line-height: 22px;
   }
 
 header .intro-text .intro-lead-in {
