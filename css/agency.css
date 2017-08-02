@@ -234,6 +234,7 @@ header {
   -moz-background-size: cover;
   background-size: cover;
   -o-background-size: cover;
+  min-height: 650px;
   max-height: fill-available;
   text-align: center;
   color: white;
