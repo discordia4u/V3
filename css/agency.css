@@ -257,12 +257,16 @@ header .about-me {
   margin: 0px 0px;
 }
 
-header .intro-text .about-text {
+header .intro-text  {
+  padding-top: 100px;
+  padding-bottom: 50px;
+  }
+
+header  .about-text {
   padding-top: 50px;
   padding-bottom: 50px;
-  
-  
-}
+  }
+
 header .intro-text .intro-lead-in {
   font-family: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-style: italic;
