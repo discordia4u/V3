@@ -229,7 +229,7 @@ fieldset[disabled] .btn-lg.active {
 header  {
   background-image: url('http://beta.fdg.one/wp-content/uploads/2017/07/peace_canyon-e1501788859731.png');
   background-repeat: no-repeat;
-  background-attachment: scroll;
+  background-attachment: fixed;
   background-position: bottom center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
