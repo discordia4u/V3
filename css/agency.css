@@ -340,10 +340,10 @@ section h3.section-subheading {
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: bottom center;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  background-size: cover;
-  -o-background-size: cover;
+  -webkit-background-size: contain;
+  -moz-background-size: contain;
+  background-size: contain;
+  -o-background-size: contain;
   text-align: left;
   color: #222222;
   margin: 0px 0px;
