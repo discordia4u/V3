@@ -263,10 +263,12 @@ header .intro-text  {
   }
 
 header  .about-text {
+  margin-top: 75%;
   padding: 30px 40px 50px 40px;
-   font-size: 15px;
+  font-size: 15px;
   line-height: 20px;
-  border: px solid white;
+  background-color: #00222222;
+  border: 1px solid white;
   }
 
 header .intro-text .intro-lead-in {
